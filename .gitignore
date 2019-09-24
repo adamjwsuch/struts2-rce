@@ -1,4 +1,3 @@
-/target/
 /.apt_generated/
 .settings/
 .vscode/
@@ -7,3 +6,5 @@
 .sonatype
 .classpath
 .DS_Store
+/target/
+*.jar
